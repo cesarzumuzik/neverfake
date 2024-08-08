@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeverFake</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        .product {
+            border: 1px solid #ddd;
+            margin: 20px;
+            padding: 20px;
+            display: inline-block;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+        }
+        .product h2 {
+            font-size: 1.5em;
+            margin: 10px 0;
+        }
+        .product p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .contact {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NeverFake</h1>
+    </header>
+    <div class="product">
+        <img src="URL_DE_TU_IMAGEN_1" alt="Camiseta 1">
+        <h2>Camiseta 1</h2>
+        <p>$20.00</p>
+    </div>
+    <div class="product">
+        <img src="URL_DE_TU_IMAGEN_2" alt="Camiseta 2">
+        <h2>Camiseta 2</h2>
+        <p>$20.00</p>
+    </div>
+    <div class="product">
+        <img src="URL_DE_TU_IMAGEN_3" alt="Camiseta 3">
+        <h2>Camiseta 3</h2>
+        <p>$20.00</p>
+    </div>
+    <div class="contact">
+        <p>Síguenos en Instagram: <a href="https://instagram.com/neverfake_ofc" target="_blank">@neverfake_ofc</a></p>
+    </div>
+</body>
+</html>
